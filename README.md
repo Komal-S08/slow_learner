@@ -1,4 +1,4 @@
-
+DIRECT STREAMLIT LINK : https://slowlearner-cbexdgspyhejmew7zjrgxj.streamlit.app/
 # 🎓 Slow Learner Prediction Tool
 
 An AI-powered educational dashboard that identifies students who may require remedial support and suggests personalized strategies using machine learning and Hugging Face NLP models.

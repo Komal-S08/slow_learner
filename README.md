@@ -6,7 +6,7 @@ An AI-powered educational dashboard that identifies students who may require rem
 ## 🔧 Features
 - Predict if a student is a slow learner using Random Forest
 - Calculates risk score based on behavioral & academic data
-- Uses Hugging Face to generate personalized suggestions
+- Uses AI (Cohere) to generate personalized suggestions
 - Interactive UI with Streamlit
 
 ## 📁 Run Locally
